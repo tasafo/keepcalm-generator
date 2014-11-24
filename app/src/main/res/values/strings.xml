@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Keep Calm Generator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nome_app">Keep Calm</string>
+    <string name="texto_keep">KEEP</string>
+    <string name="texto_calm">CALM</string>
+    <string name="texto_and">AND</string>
+    <string name="hint_campo_linha1">Frase 1</string>
+    <string name="hint_campo_linha2">Frase 2</string>
+    <string name="title_activity_keep_calm">KeepCalmActivity</string>
+    <string name="action_gerar">Gerar</string>
+    <string name="action_sobre">Sobre</string>
+    <string name="action_compartilhar">Compartilhar</string>
+    <string name="mensagem_campos_nao_informados">Ops! Informe o que deseja compartilhar.</string>
+    <string name="titulo_intent_chooser">Compartilhar imagem</string>
+
+</resources>

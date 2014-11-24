@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.com.androidnarede.keepcalmgenerator.KeepCalmActivity">
+
+    <item
+        android:id="@+id/action_compartilhar"
+        android:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="@string/action_compartilhar" />
+
+</menu>
